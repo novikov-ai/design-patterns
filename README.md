@@ -6,3 +6,4 @@ Let's dive into design patterns!
 
 - Strategy
 - Observer
+- Decorator
